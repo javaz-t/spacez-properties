@@ -298,6 +298,38 @@
 
   "properties": [
     {
+       "highlights": [
+        {
+          "title": "Bedrooms",
+          "description": "Lavish 3-bedroom villa designed to offer the pinnacle of luxury.",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Bedroom_smkh0c.png"
+        },
+        {
+          "title": "Carpet Area",
+          "description": "Vast 2200 sq. ft. property",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Scale_Area_qqpnn5.png"
+        },
+        {
+          "title": "Spaces",
+          "description": "Private pool for relaxation, a sophisticated and indulgent design, and modern amenities",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730899838/icons8-movie-100_sqbjvb.png"
+        },
+        {
+          "title": "Facilities",
+          "description": "An excellent choice for family reunions, group retreats, or memorable events.",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_1_yxoq14.png"
+        },
+        {
+          "title": "Proximity",
+          "description": "Just on the right spot 30 mins away from the city hustle",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_2_i9cpzw.png"
+        },
+        {
+          "title": "Best Value",
+          "description": "Property valued at ₹7 Cr., an ideal investment opportunity.",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_3_rk6jcq.png"
+        }
+      ],
   "aboutProperty": {
     "description": "Welcome to Bougain Blossom - Spacez Villa, a luxurious 4BHK stay in Kodihalli, Bangalore. With two spacious living rooms, elegant interiors, and a peaceful ambiance, this villa is perfect for families, friends, or corporate stays. Located in HAL 2nd Stage, it offers easy access to premium shopping, dining, and city attractions while providing a private and relaxing retreat.",
     "pointers": [
@@ -557,7 +589,40 @@
 }
 ]
 
-},{
+} ,
+{
+   "highlights": [
+        {
+          "title": "Bedrooms",
+          "description": "Lavish 3-bedroom villa designed to offer the pinnacle of luxury.",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Bedroom_smkh0c.png"
+        },
+        {
+          "title": "Carpet Area",
+          "description": "Vast 2200 sq. ft. property",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Scale_Area_qqpnn5.png"
+        },
+        {
+          "title": "Spaces",
+          "description": "Private pool for relaxation, a sophisticated and indulgent design, and modern amenities",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730899838/icons8-movie-100_sqbjvb.png"
+        },
+        {
+          "title": "Facilities",
+          "description": "An excellent choice for family reunions, group retreats, or memorable events.",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_1_yxoq14.png"
+        },
+        {
+          "title": "Proximity",
+          "description": "Just on the right spot 30 mins away from the city hustle",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_2_i9cpzw.png"
+        },
+        {
+          "title": "Best Value",
+          "description": "Property valued at ₹7 Cr., an ideal investment opportunity.",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_3_rk6jcq.png"
+        }
+      ],
   "aboutProperty": {
     "description": "Welcome to CineCastle - Spacez Luxurious Villa, a stunning 3BHK retreat in the heart of MG Road, Bangalore. Featuring two spacious living rooms, a serene exterior garden, and modern amenities, this villa is the perfect escape for families, friends, or corporate stays. Its prime location offers easy access to Bangalore’s top shopping, dining, and entertainment hubs.",
     "pointers": [
@@ -840,6 +905,39 @@
 ]
 },
     {
+
+       "highlights": [
+        {
+          "title": "Bedrooms",
+          "description": "Lavish 3-bedroom villa designed to offer the pinnacle of luxury.",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Bedroom_smkh0c.png"
+        },
+        {
+          "title": "Carpet Area",
+          "description": "Vast 2200 sq. ft. property",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Scale_Area_qqpnn5.png"
+        },
+        {
+          "title": "Spaces",
+          "description": "Private pool for relaxation, a sophisticated and indulgent design, and modern amenities",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730899838/icons8-movie-100_sqbjvb.png"
+        },
+        {
+          "title": "Facilities",
+          "description": "An excellent choice for family reunions, group retreats, or memorable events.",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_1_yxoq14.png"
+        },
+        {
+          "title": "Proximity",
+          "description": "Just on the right spot 30 mins away from the city hustle",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_2_i9cpzw.png"
+        },
+        {
+          "title": "Best Value",
+          "description": "Property valued at ₹7 Cr., an ideal investment opportunity.",
+          "icon": "https://res.cloudinary.com/dz3tveb47/image/upload/v1730793326/Frame_3_rk6jcq.png"
+        }
+      ],
   "aboutProperty": {
     "description": "Garden Veil - Spacez Luxurious Villa, a beautifully curated 4BHK hideaway tucked within the vibrant neighborhood of Goregaon West, Mumbai. Designed with a balance of modern elegance and nostalgic flair, this villa offers a private oasis with lush outdoor charm and warm interiors. Whether you're planning a family stay, a work retreat, or a quiet city escape, Garden Veil delivers comfort and character in equal measure – all just minutes from Mumbai’s buzzing lifestyle zones.",
     "pointers": [
