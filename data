@@ -298,6 +298,7 @@
 
   "properties": [
     {
+      "mainImage":  "https://media.spacez.co/image/upload/v1747479069/001-Bougain_Blossom-Second_Bedroom_ps4zkh.webp" ,
        "highlights": [
         {
           "title": "Bedrooms",
@@ -591,6 +592,7 @@
 
 } ,
 {
+        "mainImage":  "https://media.spacez.co/image/upload/v1748601492/002-Cine_Castle-Living_Area_aup8qv.webp",
    "highlights": [
         {
           "title": "Bedrooms",
@@ -905,6 +907,7 @@
 ]
 },
     {
+      "mainImage":  "https://media.spacez.co/image/upload/v1744457956/002-Garden-Veil-Living_Area_tiawld.webp",
 
        "highlights": [
         {
